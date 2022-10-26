@@ -12,6 +12,7 @@
 
 ### **2. 셔플**
 <img src="https://user-images.githubusercontent.com/86781939/198043952-df8af5d6-5ccf-4d2e-bcd7-f8bdd721d5e6.gif"  width="288" height="512" >
+
   - 모든 타일 순회하며 오른쪽, 아래 타일과 Swap 해도 연결된 타일이 3개가 되지 않을 시 (게임 진행 불가) 보드 리셋
 <br>
 
