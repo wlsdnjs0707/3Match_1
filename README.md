@@ -1,5 +1,5 @@
 # 3Match Puzzle Game
-<img src="![gif1](https://user-images.githubusercontent.com/86781939/198043915-92d8ddb4-c2ea-447f-83ca-2dfba51474f8.gif)"  width="576" height="1024" >
+<img src="https://user-images.githubusercontent.com/86781939/198043915-92d8ddb4-c2ea-447f-83ca-2dfba51474f8.gif"  width="288" height="512" >
 <br><br>
 
 ## # 추가한 기능
@@ -10,7 +10,7 @@
 <br><br>
 
 ### **2. 셔플**
-<img src="![gif2](https://user-images.githubusercontent.com/86781939/198043952-df8af5d6-5ccf-4d2e-bcd7-f8bdd721d5e6.gif)"  width="576" height="1024" >
+<img src="https://user-images.githubusercontent.com/86781939/198043952-df8af5d6-5ccf-4d2e-bcd7-f8bdd721d5e6.gif"  width="288" height="512" >
 
   - 모든 타일 순회하며 오른쪽, 아래 타일과 Swap 해도 연결된 타일이 3개가 되지 않을 시 (게임 진행 불가) 보드 초기화
 <br><br>
